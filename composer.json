@@ -1,5 +1,5 @@
 {
-    "name": "techscope/laravel-sqlserver",
+    "name": "machaven/laravel-sqlserver",
     "type": "library",
     "description": "Use ODBC to connect with your SQL Server instances from Laravel 5+",
     "keywords": [
